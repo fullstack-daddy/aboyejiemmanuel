@@ -141,6 +141,20 @@ a:hover {
   font-size: 1.1rem;
 }
 
+/* Contact Page */
+.getInTouch{
+  margin-left: 40%;
+  margin-top: 3rem;
+}
+
+.contactLeft{
+  margin-left: 4.5rem;
+}
+
+.maxWidth{
+  max-width: 45rem;
+}
+
 /*--/ Title A /--*/
 .title-box {
   margin-bottom: 4rem;
